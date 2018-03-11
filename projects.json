@@ -1,0 +1,22 @@
+{
+    "projects": [
+		{
+            "title": "Learning To Fly",
+            "technologies": "R, Shiny, GGplot, ",
+            "description": "Visualizes data taken from flights coming in and going out of Midway and Ohare airports."
+
+        },
+        {
+            "title": "Yelp Scraper",
+            "technologies": "Python, Beautiful Soup",
+            "description": "Scrapes data from restaurants on yelp and writes them to a CSV file."
+
+        },
+        {
+            "title": "Automatic Grader",
+            "technologies": "Python, NLTK",
+            "description": "Takes essays written by non-native speakers of English and tries to predict the grade (high, medium, low) quality of their prose. The project uses NLTK to analyze aspects of their writing"
+
+        }
+    ]
+}
