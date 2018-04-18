@@ -10,14 +10,11 @@ $(document).ready(function(){
               "<p>" + v.description + "</p>" +
               "<br>"+
               "<a href='#'> Repository Link </a>"+
-              "<br>" + 
-              "<a href='#'> Project Link </a>" +
+              "<br>" +
+              "<a href='" + v.link +"'> Project Link </a>" +
             "</div>" +
           "</div>");
-         
+
        });
     });
 });
-
-
-  
