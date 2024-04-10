@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nigel Flower"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Nigel Flower"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "nigelflower/nigelflower.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nigel Flower"
   pronouns         : # example: "she/her"  
   bio              : "Fourth Year PhD Student at NYU"
   location         : "New York"
@@ -205,9 +205,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -251,15 +248,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
