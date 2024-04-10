@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Nigel Flower"
 title_separator          : "-"
 name                     : &name "Nigel Flower"
 description              : &description "personal description"
