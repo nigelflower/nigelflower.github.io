@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/assets/cv.pdf" target="_blank">View my CV</a>
+
 Education
 ======
 * Ph.D in Linguistics, New York University, 2025 (expected)
 * M.S. in Computer Science, University of Illinois at Chicago, 2020
 * B.S. in Computer Science, University of Illinois at Chicago, 2017
   
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -31,4 +33,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
