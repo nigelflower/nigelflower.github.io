@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/assets/cv.pdf" target="_blank">View my CV</a>
+<a href="/assets/CV.pdf" target="_blank">View my CV</a>
 
 Education
 ======
