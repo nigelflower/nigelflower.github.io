@@ -17,6 +17,9 @@ Education
 * M.S. in Computer Science, University of Illinois at Chicago, 2020
 * B.S. in Computer Science, University of Illinois at Chicago, 2017
   
+
+<embed src="{{ 'assets/CV.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
