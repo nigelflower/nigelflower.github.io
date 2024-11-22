@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/assets/CV.pdf" target="_blank">View my CV</a>
+<a href="/assets/cv.pdf" target="_blank">View my CV</a>
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
 * B.S. in Computer Science, University of Illinois at Chicago, 2017
   
 
-<embed src="{{ 'assets/CV.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+<embed src="{{ 'assets/cv.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 
 <!-- Publications
 ======
