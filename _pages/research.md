@@ -23,7 +23,7 @@ author_profile: true
 
 * Flower, N. & Pylkkänen, L. (*in prep*) Cortical representation of quantifier restriction: The role of the left anterior temporal lobe
 
-* Flower, N. & Pylkkänen, L. (2024) The spatiotemporal dynamics of bottom-up and top-down processing during at-a-glance reading (*Journal of Neuroscience*) [<a href="https://www.biorxiv.org/content/10.1101/2024.02.26.582140v1">preprint</a>]
+* Flower, N. & Pylkkänen, L. (2024) The spatiotemporal dynamics of bottom-up and top-down processing during at-a-glance reading (*Journal of Neuroscience*) [<a href="https://www.jneurosci.org/content/early/2024/10/18/JNEUROSCI.0374-24.20241">link</a>]
 
 * Kumar, A., Di Eugenio, B., Aurisano, J., Johnson, A., Alsaiari, A., Flower, N., & Leigh, J. (2017). Towards multimodal coreference resolution for exploratory data visualization dialogue: Context-based annotation and gesture identification. In The 21st Workshop on the Semantics and Pragmatics of Dialogue (SemDial 2017–SaarDial)
 (Vol. 48)
