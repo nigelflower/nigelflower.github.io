@@ -17,7 +17,6 @@ author_profile: true
 
 ## Journal Papers
 
-
 * Flower, N. (*in prep*) A Witness on the Island: Dynamic Binding with the Witness Bound
 
 * Flower, N., Lee, S., & Pylkkänen, L. (*in prep*) Considering all the stars visible: Syntactic Processing in the LPTL
@@ -31,7 +30,6 @@ author_profile: true
 * Kumar, A., Di Eugenio, B., Aurisano, J., Johnson, A., Alsaiari, A., Flower, N., & Leigh, J. (2017). Towards multimodal coreference resolution for exploratory data visualization dialogue: Context-based annotation and gesture identification. In The 21st Workshop on the Semantics and Pragmatics of Dialogue (SemDial 2017–SaarDial)
 (Vol. 48)
 
-
 ## Conference Talks
 
 * Flower, N., & Pylkkänen L. (2024) The influence of top-down grammatical knowledge on the rapid visual perception of full sentences: MEG evidence. 37th annual conference on Human Sentence Processing (HSP)
@@ -40,7 +38,7 @@ author_profile: true
 
 ## Conference Posters
 
-* Flower, N. and & Pylkkänen L. (2025) Serial and Parallel Combinatorics: An MEG investigation into lexical and compositional processing during parallel presentation. Poster presented at the 38th Annual Meeting of Human Sentence Processing (HSP).
+* Flower, N. and & Pylkkänen L. (2025) Cortical representation of quantification: The role of the left anterior temporal lobe. Poster presented at the 38th Annual Meeting of Human Sentence Processing (HSP).
 
 * Flower, N. and & Pylkkänen L. (2024) All at once: Semantic Effects of Quantification during Parallel Presentation in MEG. Poster presented at the 10th Annual Meeting of MACSIM (Mid-Atlantic Colloquium of Studies in Meaning).
 
