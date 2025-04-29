@@ -40,6 +40,8 @@ author_profile: true
 
 ## Conference Posters
 
+* Flower, N. and & Pylkkänen L. (2025) Serial and Parallel Combinatorics: An MEG investigation into lexical and compositional processing during parallel presentation. Poster presented at the 38th Annual Meeting of Human Sentence Processing (HSP).
+
 * Flower, N. and & Pylkkänen L. (2024) All at once: Semantic Effects of Quantification during Parallel Presentation in MEG. Poster presented at the 10th Annual Meeting of MACSIM (Mid-Atlantic Colloquium of Studies in Meaning).
 
 * Flower, N. and & Pylkkänen L. (2023) At-a-glance sentence comprehension: Top-Down Impact of Syntactic Structure in Left Lateral Language Cortex Starting at 270 ms. Poster presented at the 15th Annual Meeting of the Society for the Neurobiology of Language.
