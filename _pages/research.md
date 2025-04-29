@@ -17,13 +17,16 @@ author_profile: true
 
 ## Journal Papers
 
+
 * Flower, N. (*in prep*) A Witness on the Island: Dynamic Binding with the Witness Bound
 
 * Flower, N., Lee, S., & Pylkkänen, L. (*in prep*) Considering all the stars visible: Syntactic Processing in the LPTL
 
-* Flower, N. & Pylkkänen, L. (*in prep*) Cortical representation of quantifier restriction: The role of the left anterior temporal lobe
+* Flower, N. & Pylkkänen, L. (*in prep*) Serial and Parallel Combinatorics: An MEG investigation into lexical and compositional processing during parallel presentation
 
-* Flower, N. & Pylkkänen, L. (2024) The spatiotemporal dynamics of bottom-up and top-down processing during at-a-glance reading (*Journal of Neuroscience*) [<a href="https://www.jneurosci.org/content/early/2024/10/18/JNEUROSCI.0374-24.20241">link</a>]
+* Flower, N. & Pylkkänen, L. (*submitted*) Cortical representation of quantification: The role of the left anterior temporal lobe
+
+* Flower, N. & Pylkkänen, L. (2024) The spatiotemporal dynamics of bottom-up and top-down processing during at-a-glance reading (*Journal of Neuroscience*) [<a href="https://www.jneurosci.org/content/44/48/e0374242024">link</a>]
 
 * Kumar, A., Di Eugenio, B., Aurisano, J., Johnson, A., Alsaiari, A., Flower, N., & Leigh, J. (2017). Towards multimodal coreference resolution for exploratory data visualization dialogue: Context-based annotation and gesture identification. In The 21st Workshop on the Semantics and Pragmatics of Dialogue (SemDial 2017–SaarDial)
 (Vol. 48)
