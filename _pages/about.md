@@ -7,20 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth year graduate student in the Department of Linguistics at NYU, where I am currently studying with Dr. Liina Pylkkänen. I use magnetoencephalography (MEG) to investgiate the complex series of computations that occur in the brain when presented multiple words at the same time. You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
+I am currently a post-doctoral research fellow at McMaster University working with <a href="https://christianbrodbeck.net/members/christian-brodbeck.html">Christian Brodbeck</a> in the <a href="https://christianbrodbeck.net/">Brodbeck Lab</a>. Previously, I completed my Ph.D. in the <a href="https://as.nyu.edu/departments/linguistics.html">Linguistics Department at NYU</a> where I studied under <a href="https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/">Liina Pylkkänen</a> in the <a href="https://wp.nyu.edu/neurolinglab/people/lab-members/">NeLLab</a>. My <a href="http://libaccess.mcmaster.ca/login?url=https://www.proquest.com/dissertations-theses/combinatorics-at-glance-on-spatiotemporal/docview/3255210349/se-2?accountid=12347">dissertation</a> used magnetoencephalography (MEG) to investgiate the complex series of computations that occur in the brain when presented multiple words at the same time. You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
-My research can be broadly divided into two main streams. For each of them, I use data from the brain (MEG/EEG) along with behavioral measures. Check out my <a href="/research">research</a> page to see how this program is going!
+# Ongoing Projects
 
-## Neural Bases of Meaning
+## Continuous Speech Processing in Aging
+My current postdoctoral research focuses on context use in continuous speech, including how it changes with age and interacts with hearing loss. This work is part of an <a href="https://reporter.nih.gov/search/S0ABSkf4iE2GqIQnNxTKsg/project-details/10804052">NIH-funded project</a> led by <a href="https://christianbrodbeck.net/members/christian-brodbeck.html">Christian Brodbeck</a>.
 
-On the meaning side of things, my research investigates (1) how the brain composes meaningful linguistic units together (morphemes and words), (2) how the brain coordinates those representations into logical structures, and (3) how the brain retrieves those representations.
-
-The first question asks what processes underlie the composition of two (or multiple) linguistic building blocks. This question is difficult, because when we compose linguistic units together, we not only form abstract syntactic structures, we also form rich, meaningful representations. Using theoretical linguistics as a guide, I aim to figure out the neural mechanisms that serve to build the infinite structured thoughts that we express when using language. 
-
-Once we build basic linguistic representations, language allows us to coordinate them into complex logical structures to convey equivalently complex meanings. This is typically done using so-called "function words." I study how brain forms these logical structures when processing quantificational expressions such as "all cats" or "some cats." By understanding how the brain understands this class of words, we will be better served at looking at other levels of semantic structure beyond the two-word level.
-
-Finally, I am also interested in how the brain *retrieves* these meaningful representations after they have been constructed. For example, if you hear the sentence "John has a cat" followed by "the cat's name is Petra," our brains fetch that representation that was constructed by the phrase "a cat" after hearing that expression containing the "the."
-
-## Reading
-
-I investigate each of the above questions using the written modality. In particular, I use a method of stimulus presentation known as "parallel presentation" meaning presenting subjects with full sentences that they comprehend within a single fixation instead of unfolding the sentence to them word by word. When paired with neural recordings, this paradigm allows us to investigate how the brain builds linguistic structure when *all* of the information is available at once. 
+Ambiguity is a pervasive property of natural language, and one example of this can be seen by how the speech signal associated with a phrase or sentence can be ambiguous between multiple meanings. This ambiguity can be made even more difficult to disentangle in the presence of background noise or if you suffer from hearing loss. Typically, people can resolve ambiguity in the speech signal by relying on the context in order to fill in the gaps. The goal of this project is developing and testing explicit models of context use in continuous speech, how context use changes with age, and how it interacts with hearing loss.

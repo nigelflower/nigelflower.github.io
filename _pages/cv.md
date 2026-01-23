@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, New York University, 2025 (expected)
+* Ph.D in Linguistics, New York University, 2025
 * M.S. in Computer Science, University of Illinois at Chicago, 2020
 * B.S. in Computer Science, University of Illinois at Chicago, 2017
   
