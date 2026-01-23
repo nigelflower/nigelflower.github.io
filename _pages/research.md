@@ -21,9 +21,9 @@ author_profile: true
 
 * Flower, N., Lee, S., & Pylkkänen, L. (*in prep*) Considering all the stars visible: Syntactic Processing in the LPTL
 
-* Flower, N. & Pylkkänen, L. (*in prep*) Serial and Parallel Combinatorics: An MEG investigation into lexical and compositional processing during parallel presentation
+* Flower, N. (*under review*) A Unified Neural Timecourse for Words, Phrases, and Sentences: MEG Evidence from Parallel Presentation
 
-* Flower, N. & Pylkkänen, L. (*submitted*) Cortical representation of quantification: The role of the left anterior temporal lobe
+* Flower, N. & Pylkkänen, L. (2026) Cortical representation of quantification: The role of the left anterior temporal lobe
 
 * Flower, N. & Pylkkänen, L. (2024) The spatiotemporal dynamics of bottom-up and top-down processing during at-a-glance reading (*Journal of Neuroscience*) [<a href="https://www.jneurosci.org/content/44/48/e0374242024">link</a>]
 
@@ -38,10 +38,16 @@ author_profile: true
 
 ## Conference Posters
 
+* Flower, N. & Pylkkänen, L. (2025) Cortical representation of quantification: The role of the left anterior temporal lobe. Poster presented at the 17th Annual Meeting of the Society for the Neurobiology of Language (SNL).
+
+* Flower, N. & Pylkkänen, L. (2025) Serial and Parallel Combinatorics: An MEG investigation into lexical and compositional processing during parallel presentation. Poster presented at the 17th Annual Meeting of the Society for the Neurobiology of Language (SNL).
+
+* Rodriguez, A., Flower N., & Pylkkänen, L. (2025) Backward surprisal in serial and parallel reading. Poster presented at the 17th Annual Meeting of the Society for the Neurobiology of Language (SNL).
+
 * Flower, N. and & Pylkkänen L. (2025) Cortical representation of quantification: The role of the left anterior temporal lobe. Poster presented at the 38th Annual Meeting of Human Sentence Processing (HSP).
 
 * Flower, N. and & Pylkkänen L. (2024) All at once: Semantic Effects of Quantification during Parallel Presentation in MEG. Poster presented at the 10th Annual Meeting of MACSIM (Mid-Atlantic Colloquium of Studies in Meaning).
 
 * Flower, N. and & Pylkkänen L. (2023) At-a-glance sentence comprehension: Top-Down Impact of Syntactic Structure in Left Lateral Language Cortex Starting at 270 ms. Poster presented at the 15th Annual Meeting of the Society for the Neurobiology of Language.
 
-* Flower, N., Lee S. & Pylkkänen L. (2022) Considering all the stars visible: MEG correlates of English post-nominal modification. Poster presented at the 14th Annual Meeting of the Society for the Neurobiology of Language.
+* Flower, N., Lee, S., & Pylkkänen, L. (2022) Considering all the stars visible: MEG correlates of English post-nominal modification. Poster presented at the 14th Annual Meeting of the Society for the Neurobiology of Language.

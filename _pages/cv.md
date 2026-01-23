@@ -11,6 +11,10 @@ redirect_from:
 
 <a href="/assets/cv.pdf" target="_blank">View my CV</a>
 
+Employment
+===
+* Postdoctoral Research Fellow, McMaster University, 2025-
+
 Education
 ======
 * Ph.D in Linguistics, New York University, 2025
