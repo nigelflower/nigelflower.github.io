@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Papers
 
-* Flower, N. (*under review*) A Unified Neural Timecourse for Words, Phrases, and Sentences: MEG Evidence from Parallel Presentation
+* Flower, N. (2026) A Unified Neural Timecourse for Words, Phrases, and Sentences: MEG Evidence from Parallel Presentation (*Neurobiology of Language*) [<a href="https://direct.mit.edu/nol/article/doi/10.1162/NOL.a.254/136024">link</a>]
 
 * Flower, N. & Pylkkänen, L. (2026) Cortical representation of quantification: The role of the left anterior temporal lobe (*Cognition*) [<a href="https://www.sciencedirect.com/science/article/pii/S0010027725003440">link</a>]
 
